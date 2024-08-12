@@ -1,6 +1,0 @@
-{
- "Raaga":"Hamsadhwani",
- "rasa":["Veera","karuna","adbhuta"],
-"description":"melodius,indian,classical,instrumental,Flute,Ajay Prasanna",
-"instrument":"Flute"
-}

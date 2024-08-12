@@ -1,6 +1,0 @@
-{
- "Raaga":"Hamsadhwani",
- "rasa":["Veera","karuna","adbhuta"],
-"description":"guitar",
-"instrument":"guitar"
-}
