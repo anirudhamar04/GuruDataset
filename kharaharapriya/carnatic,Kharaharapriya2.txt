@@ -1,0 +1,6 @@
+{
+ "Raaga":"Kharaharapriya",
+ "rasa":["Veera","Bhakti","Shringara","Shanti"],
+"description":"Ragam, Thanam and Pallavi,Pallavi,Aadhi Thalam,Mridangam, Ghatam,Mudhra Vainika Award",
+"instrument":"Veena"
+}

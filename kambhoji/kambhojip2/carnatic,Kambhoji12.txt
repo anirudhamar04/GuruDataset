@@ -1,0 +1,6 @@
+{
+ "Raaga":"Kambhoji",
+ "rasa":["Bhakti","Hasya","Karuna", "Shringara","Shanti"],
+"description":"Krithis,Instrumental,Music,Album,Vibrant,Violin",
+"instrument":"Violin"
+}

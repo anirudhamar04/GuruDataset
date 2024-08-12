@@ -1,0 +1,7 @@
+{
+ "Raaga":"hindola",
+ "rasa":["bhakti","Shringara","Shanti"],
+"description":"Hindolam,Carnatic,Violin,Thyagaraja,M.S.Gopalakrishnan",
+"instrument":"Violin",
+"tala":"Aadi"
+}

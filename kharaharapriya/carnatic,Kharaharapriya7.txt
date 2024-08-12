@@ -1,0 +1,6 @@
+{
+ "Raaga":"Kharaharapriya",
+ "rasa":["Veera","Bhakti","Shringara","Shanti"],
+"description":"Tanam,Ragas Karaharapriya Varali Bahudari and Shudh Sarang,melo-rhythmic improvisation,soundscape of the raga",
+"instrument":"Veena"
+}

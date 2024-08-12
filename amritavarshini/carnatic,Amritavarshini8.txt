@@ -1,0 +1,6 @@
+{
+ "Raaga":"Amritavarshini",
+ "rasa":["Veera","Bhayanakam","Adhbutha"],
+"description":"Raagam,Thanam,Bharathiya Vidhya Bhawan,Veena",
+"instrument":"Veena"
+}

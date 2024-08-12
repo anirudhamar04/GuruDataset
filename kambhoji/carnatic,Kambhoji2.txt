@@ -1,0 +1,6 @@
+{
+ "Raaga":"Kambhoji",
+ "rasa":["bhakti","Hasya","Karuna","Shringara","Shanti"],
+"description":"Short,Kambhoji Ragam,Thanam,Veena",
+"instrument":"Veena"
+}

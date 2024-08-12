@@ -1,0 +1,5 @@
+{
+ "Raaga":"shankarabharanam","rasa":["bhakti","Veera","Shringara"],
+"description":"instrumental,flute,veena",
+"instrument":"flute,veena"
+}

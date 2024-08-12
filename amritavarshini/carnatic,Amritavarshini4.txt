@@ -1,0 +1,6 @@
+{
+ "Raaga":"Amritavarshini",
+ "rasa":["Veera","Bhayanakam","Adhbutha"],
+"description":"Carnatic, Saraswati maestro, D Srinivas, UN performance, Veena",
+"instrument":"Veena"
+}

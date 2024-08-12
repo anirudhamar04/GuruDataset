@@ -1,0 +1,6 @@
+{
+ "Raaga":"Todi",
+ "rasa":["Bhakti","Veera","Karuna","Adhbutha"],
+"description":"traditional flute performance,soft,melodious composition,keeps the listener totally focused and composed, soothing,heart-winning",
+"instrument":"flute"
+}

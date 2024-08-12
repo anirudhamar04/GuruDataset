@@ -1,0 +1,6 @@
+{
+ "Raaga":"Kalyani",
+ "rasa":["Veera","Shringara","Karuna","Adhbutha"],
+"description":"Exposition,Raga,Veena,Concert,Chennai Mathematical Institute (CMI)",
+"instrument":"Veena"
+}

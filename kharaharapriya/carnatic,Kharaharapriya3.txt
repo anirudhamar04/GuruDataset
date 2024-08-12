@@ -1,0 +1,6 @@
+{
+ "Raaga":"Kharaharapriya",
+ "rasa":["Veera","Bhakti","Shringara","Shanti"],
+"description":"Carnatic music,Live,Flute rendition",
+"instrument":"Flute"
+}

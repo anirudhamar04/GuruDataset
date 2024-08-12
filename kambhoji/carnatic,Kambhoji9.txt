@@ -1,0 +1,6 @@
+{
+ "Raaga":"Kambhoji",
+ "rasa":["bhakti","Hasya","Karuna","Shringara","Shanti"],
+"description":"Alap,Evarimata,Swara Kalpana,Tani Avartanam,Violin,Mridangam,Khanjira",
+"instrument":"Violin"
+}

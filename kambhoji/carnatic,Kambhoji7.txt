@@ -1,0 +1,6 @@
+{
+ "Raaga":"Kambhoji",
+ "rasa":["bhakti","Hasya","Karuna","Shringara","Shanti"],
+"description":"Violin concert,Purva Sukrutam Festival,Mumbai,Carnatic classical music,Ranjani and Gayatri,K.Arun Prakash,Chandrasekara Sharma,soloists,violin duos,accompanists,vocal duos,composers,educators,ambassadors of Indian Classical Music.",
+"instrument":"Violin"
+}

@@ -1,0 +1,6 @@
+{
+ "Raaga":"hindola",
+ "rasa":["bhakti","Shringara","Shanti"],
+"description":"Flute,Violin",
+"instrument":"Flute, Violin"
+}

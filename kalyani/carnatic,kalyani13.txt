@@ -1,0 +1,6 @@
+{
+ "Raaga":"Kalyani",
+ "rasa":["Veera","Shringara","Karuna","Adhbutha"],
+"description":"Flute,Etavunara,St.Thyagaraja,Raga Kalyani",
+"instrument":"Flute"
+}

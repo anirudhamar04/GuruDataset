@@ -1,0 +1,6 @@
+{
+ "Raaga":"Amritavarshini",
+ "rasa":["Veera","Bhayanakam","Adbhutam"],
+"description":"Veena recital,raga Amritavarshini of carnatic Music",
+"instrument":"Veena"
+}

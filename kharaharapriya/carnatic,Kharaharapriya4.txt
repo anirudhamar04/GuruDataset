@@ -1,0 +1,6 @@
+{
+ "Raaga":"Kharaharapriya",
+ "rasa":["Veera","Bhakti","Shringara","Shanti"],
+"description":"Flute,kudamaloorjanardanan,pakkala,Keerthana Murali,Krithi,Misra",
+"instrument":"Flute"
+}

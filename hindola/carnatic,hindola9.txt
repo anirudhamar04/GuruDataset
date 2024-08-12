@@ -1,0 +1,6 @@
+{
+ "Raaga":"hindola",
+ "rasa":["bhakti","Shringara","Shanti"],
+"description":"Carnatic Music,Muthuswami Dikshitar,kritis,deities",
+"instrument":"mandolin"
+}

@@ -1,0 +1,6 @@
+{
+ "Raaga":"arabhi",
+ "rasa":["Bhakti" , "Shringari" , "Veera", "Karuna" , "Adhbutha"],
+ "description":"Violin,Arabhi,Positive raga,Fine tuning our mind,Correct path",
+ "instrument":"violin"
+}

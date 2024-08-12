@@ -1,0 +1,6 @@
+{
+ "Raaga":"Shankarabharanam",
+ "rasa":["Bhakti","Veera","Shringara"],
+"description":"guitar,raga on guitar,shankarmantra,full tune,raga",
+"instrument":"Guitar"
+}

@@ -1,0 +1,6 @@
+{
+ "Raaga":"Todi",
+ "rasa":["Bhakti","Veera","Karuna","Adhbutha"],
+"description":"Expert rendering,Ustad Amjad Ali Khan,Tribute to Tansen,Classical instrumentalists,Sarod,Senia Bangash School of music,Hindustani Instrumentalists,Virtuosity",
+"instrument":"Sarod"
+}

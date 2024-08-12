@@ -1,0 +1,7 @@
+{
+ "Raaga":"Kalyani",
+ "rasa":["Veera","Shringara","Karuna","Adhbutha"],
+"description":"Evergreen Classicals,Guitar,R. Prasanna,Vasudevayani",
+"instrument":"Guitar",
+"tala":"Aadi"
+}

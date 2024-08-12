@@ -1,0 +1,6 @@
+{
+ "Raaga":"Kharaharapriya",
+ "rasa":["Veera","Bhakti","Shringara","Shanti"],
+"description":"Pakkala Nilabadi,Live performance,Violin,Mridangam,Tambura",
+"instrument":"Violin,Mridangam,Tambura"
+}

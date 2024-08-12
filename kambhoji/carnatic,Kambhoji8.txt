@@ -1,0 +1,6 @@
+{
+ "Raaga":"Kambhoji",
+ "rasa":["bhakti","Hasya","Karuna","Shringara","Shanti"],
+"description":"MadRasana Duet,Sruti Sarathy,Kamalakiran Vinjamuri,violin",
+"instrument":"violin"
+}

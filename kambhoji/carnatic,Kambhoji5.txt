@@ -1,0 +1,6 @@
+{
+ "Raaga":"Kambhoji",
+ "rasa":["bhakti","Hasya","Karuna","Shringara","Shanti"],
+"description":"sublime classical raga,musical mode,Indian classical musical landscape",
+"instrument":"violin"
+}

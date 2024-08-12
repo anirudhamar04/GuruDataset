@@ -1,0 +1,6 @@
+{
+ "Raaga":"Kalyani",
+ "rasa":["Veera","Shringara","Karuna","Adhbutha"],
+"description":"divine serenity,soothing,Indian ambient melodies,tranquility,inner peace,meditation,relaxation,ancient traditions,contemporary sensibilities",
+"instrument":"sitar"
+}

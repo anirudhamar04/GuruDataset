@@ -1,0 +1,6 @@
+{
+ "Raaga":"Kambhoji",
+ "rasa":["bhakti","Hasya","Karuna","Shringara","Shanti"],
+"description":"Carnatic,CarnaticClassical,CarnaticViolin,Carnatic alapana,Raga alapana,Ragam Kambhoji,Ragam Kambodhi,Kamboji",
+"instrument":"Violin"
+}

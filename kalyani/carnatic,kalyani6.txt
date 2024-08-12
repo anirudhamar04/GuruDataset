@@ -1,0 +1,7 @@
+{
+ "Raaga":"Kalyani",
+ "rasa":["Veera","Shringara","Karuna","Adhbutha"],
+"description":"Violin Recital,Vina Anyayamu,Subbaraya Sastri,Akashvani Sangeet Sammelan,Adi",
+"instrument":"Violin",
+"tala":"Adi"
+}

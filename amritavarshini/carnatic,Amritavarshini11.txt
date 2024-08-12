@@ -1,0 +1,6 @@
+{
+ "Raaga":"Amritavarshini",
+ "rasa":["Veera","Bhayanakam","Adbhutam"],
+"description":"Nadhaswaram",
+"instrument":"Nadhaswaram"
+}

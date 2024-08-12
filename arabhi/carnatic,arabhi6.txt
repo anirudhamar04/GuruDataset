@@ -1,0 +1,6 @@
+{
+ "Raaga":"arabhi",
+ "rasa":["Bhakti" , "Shringari" , "Veera", "Karuna" , "Adhbutha"],
+"description":"Sri Saraswati Namostute,raga Arabhi,Violin,Mridangam",
+"instrument":"Violin,Mridangam"
+}

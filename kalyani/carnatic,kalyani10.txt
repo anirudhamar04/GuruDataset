@@ -1,0 +1,6 @@
+{
+ "Raaga":"Kalyani",
+ "rasa":["Veera","Shringara","Karuna","Adhbutha"],
+"description":"Raga exploration,Concert,Parthasarathy Swami Sabha,Chennai,December music festival,2023",
+"instrument":""
+}

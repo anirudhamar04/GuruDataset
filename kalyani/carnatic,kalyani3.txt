@@ -1,0 +1,6 @@
+{
+ "Raaga":"Kalyani",
+ "rasa":["Veera","Shringara","Karuna","Adhbutha"],
+"description":"Ekatvam Holi Music Festival 2019,Own composition,Veena,Violin,Mridangam,Tabla,Strings Attached",
+"instrument":"Veena,Violin,Mridangam,Tabla"
+}

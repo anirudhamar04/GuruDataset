@@ -1,0 +1,6 @@
+{
+ "Raaga":"Kalyani",
+ "rasa":["Veera","Shringara","Karuna","Adhbutha"],
+"description":"Violin,Exploring the beauty of kalyani ragam,Programming,Audio mixing & mastering,Editing & DI",
+"instrument":"Violin"
+}

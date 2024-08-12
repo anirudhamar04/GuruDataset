@@ -1,0 +1,6 @@
+{
+ "Raaga":"Amritavarshini",
+ "rasa":["Veera","Bhayanakam","Adbhutam"],
+"description":"Raag Amrithavarshini,Flute",
+"instrument":"Flute"
+}

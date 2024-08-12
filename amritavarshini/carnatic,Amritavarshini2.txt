@@ -1,0 +1,6 @@
+{
+ "Raaga":"Amritavarshini",
+ "rasa":[ "Veera", "Bhayanakam" , "Adhbutha"],
+"description":"veena,saraswathi veena,jayanthi kumaresh,paramparik conference,paramparik,17th paramparik annual classical",
+"instrument":"veena"
+}

@@ -1,0 +1,6 @@
+{
+ "Raaga":"mohana",
+ "rasa":["Shringari"],
+"description":"Carnatic music,musical scale,South Indian classical music",
+"instrument":"Violin"
+}

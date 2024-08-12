@@ -1,0 +1,6 @@
+{
+ "Raaga":"hindola",
+ "rasa":["bhakti","Shringara","Shanti"],
+"description":"Raga Hindol,Raga-Ragini classification system,4 swars,Matta Taal,Alap,Jod,Bandish,Anant Chaturdashi",
+"instrument":"sitar"
+}

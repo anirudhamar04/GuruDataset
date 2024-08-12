@@ -1,0 +1,6 @@
+{
+ "Raaga":"Amritavarshini",
+ "rasa":["Veera","Bhayanakam","Adhbutha"],
+"description":"Violin,Violinist,Unknown Violinist",
+"instrument":"Violin"
+}

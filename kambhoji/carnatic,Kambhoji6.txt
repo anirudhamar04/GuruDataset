@@ -1,0 +1,6 @@
+{
+ "Raaga":"Kambhoji",
+ "rasa":["bhakti","Hasya","Karuna","Shringara","Shanti"],
+"description":"Violin,Indian Violin,Played in 5 speeds - 4, 6, 8, 12 and 16 notes per beat",
+"instrument":"Violin"
+}

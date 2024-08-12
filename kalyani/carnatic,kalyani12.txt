@@ -1,0 +1,6 @@
+{
+ "Raaga":"Kalyani",
+ "rasa":["Veera","Shringara","Karuna","Adhbutha"],
+"description":"De-stress,Relaxing,Music,Rakesh Chaurasia,Sunil Das,calming,relaxing",
+"instrument":"Flute"
+}

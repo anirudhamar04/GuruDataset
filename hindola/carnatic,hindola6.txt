@@ -1,0 +1,6 @@
+{
+ "Raaga":"hindola",
+ "rasa":["bhakti","Shringara","Shanti"],
+"description":"Increased feelings of compassion,Reduced Anxiety,Balanced digestive gases,Tranquility,Symmetrical ascending and descending scales",
+"instrument":"keyboard"
+}

@@ -1,0 +1,6 @@
+{
+ "Raaga":"Amritavarshini",
+ "rasa":["Veera","Bhayanakam","Adhbutha"],
+"description":"Electric Guitar,Rain Raga",
+"instrument":"Electric Guitar"
+}

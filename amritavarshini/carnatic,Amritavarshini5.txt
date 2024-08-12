@@ -1,0 +1,6 @@
+{
+ "Raaga":"Amritavarshini",
+ "rasa":["Veera","Bhayanakam","Adhbutha"],
+"description":"Anandhamrithakarshini,Dr. Jayanthi Kumaresh,Ettayapuram,rains,veena",
+"instrument":"veena"
+}

@@ -1,0 +1,6 @@
+{
+ "Raaga":"Kambhoji",
+ "rasa":["bhakti","Hasya","Karuna","Shringara","Shanti"],
+"description":"Violin,Kuzhaloodhi,Vibrant Violin,Oothukadu Venkata Subbaiyer,Kunnakudi Vaidyanathan",
+"instrument":"Violin"
+}

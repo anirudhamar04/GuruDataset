@@ -1,0 +1,6 @@
+{
+ "Raaga":"Kharaharapriya",
+ "rasa":["Veera","Bhakti","Shringara","Shanti"],
+"description":"Flute, Chakkani Rajamargamu, Aadi, Thyagaraja, Dr. N. Ramani",
+"instrument":"Flute"
+}

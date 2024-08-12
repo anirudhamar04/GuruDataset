@@ -1,0 +1,6 @@
+{
+ "Raaga":"hindola",
+ "rasa":["bhakti","Shringara","Shanti"],
+"description":"Violin,Sakethram Phani Vedala,Soumyashri Phani Vedala,Tambura",
+"instrument":"Violin"
+}

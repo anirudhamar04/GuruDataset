@@ -1,0 +1,6 @@
+{
+ "Raaga":"Kambhoji",
+ "rasa":["Bhakti","Hasya","Karuna", "Shringara","Shanti"],
+"description":"Music video,M S Gopalakrishnan,Raga Kamboji,Flute",
+"instrument":"Flute"
+}

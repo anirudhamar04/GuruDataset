@@ -1,0 +1,6 @@
+{
+ "Raaga":"arabhi",
+ "rasa":["bhakti","Shringari","Veera","Karuna","Adhbutha"],
+"description":"raga Kambhoji,Carnatic Music system,flute and violin duet,Heramb Hemanth",
+"instrument":"flute and violin"
+}

@@ -1,0 +1,6 @@
+{
+ "Raaga":"Kambhoji",
+ "rasa":["bhakti","Hasya","Karuna","Shringara","Shanti"],
+"description":"Flute,Violin,raga Kambhoji,Carnatic Music,Heramb Hemanth",
+"instrument":"Flute,Violin"
+}

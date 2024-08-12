@@ -1,0 +1,6 @@
+{
+ "Raaga":"Amritavarshini",
+ "rasa":["Veera","Bhayanakam","Adhbutha"],
+"description":"Composition,Carnatic classical,Mutthiah Bhagavatar,20th century,Carnatic system",
+"instrument":"Violin"
+}

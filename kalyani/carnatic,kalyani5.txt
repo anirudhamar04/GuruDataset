@@ -1,0 +1,6 @@
+{
+ "Raaga":"Kalyani",
+ "rasa":["Bhakthi", "Shringara", "Vatsalya"],
+"description":"Queen of ragas, Auspicious, Pleasing, Dispels fear",
+"instrument":"Keyboard"
+}
